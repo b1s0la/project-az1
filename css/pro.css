@@ -1,0 +1,163 @@
+/*body{
+	background-color: lightgray;
+}*/
+nav{
+	
+	display: block;
+	background-color: white;
+	margin-right: 30px;
+	padding: 10px;
+	text-decoration: none;
+}
+li{
+	display: inline;
+}
+li a:active{
+	border-bottom: 3px solid red;
+}
+#left{
+	
+	text-decoration: none;
+	font-family: "Times New Roman", Georgia, Serif;
+}
+h1{
+	font-size: 60px;
+}
+
+#btn1{
+	height: 30px;
+	width: 150px;
+}
+#btn1:hover{
+	background-color: red;
+}
+#right{
+	float: right;
+	padding-left: 3px;
+	text-decoration: none;
+	padding-right: 70px;
+	
+}
+.all{
+	
+	height: 400px;
+	background-image: url("../img/wal.png");
+	background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30px;
+}
+#we{
+	width: 50%;
+	float: left;
+}
+#us{
+	width: 45%;
+	float: right;
+}
+.dart{
+	width: 300px;
+	height: 300px;
+}
+.arrow{
+	width: 20px;
+	height: 20px;
+	background-color: #ff4000;
+	border-radius: 50px;
+}
+.evwrap{
+	background-color: f7f7f7;
+	padding: 30px;
+}
+.every{
+	
+	margin: 2px 150px;
+	text-align: center;
+	
+	
+}
+.wrapper div{
+	
+	width: 20%;
+	display: inline-block;
+	text-align: center;
+	padding-left: 10px;
+	margin-left: 30px;
+}
+
+#think{
+	height: 10px;
+	width: 10px;
+}
+.read{
+	padding: 10px 30px;
+	text-decoration: none;
+	color: red;
+}
+
+a.read:hover{
+	color: #fff;
+	background-color: red;
+}
+.ola{
+	height: 10px;
+	width: 15px;
+	
+}
+.m{
+	background-color: lightgrey;
+	padding: 30px;
+}
+.capa{
+	padding-top: 20px;
+	text-align: center;
+	font-size: 20px;
+	}
+a.capa{
+	text-decoration: none;
+}
+a.capa:active{
+	border-bottom: 3px solid red;
+}
+.wrap{
+	margin: 20px 70px;
+	height: 500px;
+}
+.wrapper1 div{
+	float: left;
+	width: 25%;
+	display: inline-block;
+	margin: 20px;
+}
+#btn2{
+	height: 30px;
+	width: 250px;
+}
+#btn2:hover{
+	background-color: red;
+}
+#text{
+	padding-right: 30px;
+}
+
+
+#port{
+ text-decoration: none;
+}
+#port:hover{
+	color: red;
+}
+li.ap{
+	display: list-item;
+    list-style-type: circle;
+}
+.wrapper2{
+	float: right;
+	width: 20%;
+	margin-right: 150px;
+		
+}
+
+
+/*#go{
+	margin-r: -130px; 
+}
